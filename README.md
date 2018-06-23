@@ -1,6 +1,7 @@
-# MODERN FORTRAN 2003 - Inerecen and Polymorfism
+# MODERN FORTRAN 2003 
+This repository was created to study some resources of modern fortran.
 
-This repository was created to study some a of fortran.
+***Inerecen and Polymorfism***
 
-Here, it was redo the examples in the book Scientific Programming in Fortran 2003 (Holcomb, 2003) on chapter 11.
+Here, it was redone the examples of the book Scientific Programming in Fortran 2003 (Holcomb, 2003) of chapter 11.
 
